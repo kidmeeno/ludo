@@ -1,0 +1,90 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+#container{
+	width: 486px;
+	height: 496px;
+	margin: auto;
+	padding: 0px;
+	margin-top: 60px;
+	border: 10px solid black;
+}
+.big-box{
+	width: 191px;
+	height: 195px;
+	border: 2px solid black;
+	float: left;
+	margin: 0px;
+}
+.small-box{
+	width: 93px;
+	height: 96px;	
+	float: left;
+	margin: 0px;
+}
+.big-box2{
+	width: 192px;
+	height: 96px;
+	float: left;
+	border: 1px solid black;
+	margin-left: 2px;
+}
+.smaller-box{
+	height: 31px;
+    width: 30px;
+	float: left;
+	border: 1px solid black;
+	margin: 0px;
+}
+.small-box2{
+	width: 96px;
+	height: 197px;
+	float: left;
+	margin: 0px;
+	border-bottom: 2px solid black;
+}
+#yellow-box{
+	background-color: #f7c701;
+}
+#green-box{
+	background-color: #85c21f;
+}
+#red-box{
+	background-color: #dd2519;
+}
+#blue-box{
+	background-color: #0092df;
+}
+#yellow{
+	background-color: #f7c701;
+}
+#green{
+	background-color: #85c21f;
+}
+#red{
+	background-color: #dd2519;
+}
+#blue{
+	background-color: #0092df;
+}
+.sub-bigbox{
+	background-color: white;
+    height: 133px;
+    width: 132px;
+    margin: auto;
+    margin-top: 32px;
+}
+.sup-bigbox{
+	width: 40px;
+    height: 40px;
+    display: inline-block;
+    margin-top: 14px;
+    margin-left: 14px;
+}
+.image{
+	width: 97px;
+    height: 98px;
+}
